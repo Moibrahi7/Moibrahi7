@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moibrahi7
+- 👋 Hi, I’m Mohamed Ibrahim
   # **Interests**
 - 👀 I’m a guy who really likes computers.
 - I also like to game, what games specifically? Well that is a tough one I really like to play a variety of games. The games I'm currently interested in are:
