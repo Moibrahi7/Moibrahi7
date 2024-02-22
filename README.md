@@ -12,7 +12,7 @@
 - and all the Soulsborne games(my favorite of them all is Bloodborne).
 > [<img src="Pictures/NVmnBXze9ElHzU6SmykrJLIV.jpeg" alt="Bloodborne Cover Art" width="200" hight="300"/>](https://en.wikipedia.org/wiki/Bloodborne)
 - Some of the other things that I like is voice acting (I am just starting out). Another thing that I really like are cats(if you couldn't already tell)
-> ![happy Cat](Pictures/happy-cat-happy-happy-cat.gif) ![happy Cat](Pictures/happy-cat-happy-happy-cat.gif) ![Sus Cat](Pictures/cat-cat-meme.gif) ![happy Cat](Pictures/happy-cat-happy-happy-cat.gif) ![happy Cat](Pictures/happy-cat-happy-happy-cat.gif)
+> <img src="Pictures/happy-cat-happy-happy-cat.gif" alt="Happy Cat" width="200" hight="300"/> <img src="Pictures/happy-cat-happy-happy-cat.gif" alt="Happy Cat" width="200" hight="300"/> <img src="Pictures/cat-cat-meme.gif" alt="Sus Cat" width="200" hight="300"/> <img src="Pictures/happy-cat-happy-happy-cat.gif" alt="Happy Cat" width="200" hight="300"/> <img src="Pictures/happy-cat-happy-happy-cat.gif" alt="Happy Cat" width="200" hight="300"/> 
   # **What I'm Doing Now**
 - 🌱 I’m currently learning on how to become a Software Engineer.
   # **How to Reach Me**
