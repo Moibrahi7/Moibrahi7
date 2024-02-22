@@ -5,11 +5,11 @@
 - Destiny 2
 > [<img src="Pictures/Destiny_2_(artwork).jpg" alt="Destiny 2 cover art" width="200" hight="300"/>](https://en.wikipedia.org/wiki/Destiny_2)
 - Warframe
-> <img src="Pictures/Warframe_Cover_Art.png" alt="Warframe Cover Art" width="200" hight="300"/>
+> [<img src="Pictures/Warframe_Cover_Art.png" alt="Warframe Cover Art" width="200" hight="300"/>](https://en.wikipedia.org/wiki/Warframe)
 - Honaki Star Rail
-> <img src="Pictures/HonkaiStarrail.png" alt="Honkai Starrail Cover Art" width="200" hight="300"/>
+> [<img src="Pictures/HonkaiStarrail.png" alt="Honkai Starrail Cover Art" width="200" hight="300"/>](https://en.wikipedia.org/wiki/Honkai:_Star_Rail)
 - and all the Soulsborne games(my favorite of them all is Bloodborne).
-> <img src="Pictures/NVmnBXze9ElHzU6SmykrJLIV.jpeg" alt="Bloodborne Cover Art" width="200" hight="300"/>
+> [<img src="Pictures/NVmnBXze9ElHzU6SmykrJLIV.jpeg" alt="Bloodborne Cover Art" width="200" hight="300"/>](https://en.wikipedia.org/wiki/Bloodborne)
 - Some of the other things that I like is voice acting (I am just starting out). Another thing that I really like are cats(if you couldn't already tell)
 > ![happy Cat](Pictures/happy-cat-happy-happy-cat.gif)
   # **What I'm Doing Now**
