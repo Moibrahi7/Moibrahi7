@@ -3,7 +3,7 @@
 - 👀 I’m a guy who really likes computers.
 - I also like to game, what games specifically? Well that is a tough one I really like to play a variety of games. The games I'm currently interested in are:
 - Destiny 2
-> <img src="Pictures/Destiny_2_(artwork).jpg" alt="Destiny 2 cover art" width="200" hight="300"/>
+> [<img src="Pictures/Destiny_2_(artwork).jpg" alt="Destiny 2 cover art" width="200" hight="300"/>](https://en.wikipedia.org/wiki/Destiny_2)
 - Warframe
 > <img src="Pictures/Warframe_Cover_Art.png" alt="Warframe Cover Art" width="200" hight="300"/>
 - Honaki Star Rail
@@ -17,7 +17,7 @@
   # **How to Reach Me**
 - 📫 You can reach me via email or text message.
   # **Extra Info**
-- 😄 Pronouns: He/him 
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I lived in Saudi Arabia for 5 years.
 
 <!---
