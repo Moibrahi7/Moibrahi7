@@ -13,13 +13,10 @@
 > [<img src="Pictures/NVmnBXze9ElHzU6SmykrJLIV.jpeg" alt="Bloodborne Cover Art" width="200" hight="300"/>](https://en.wikipedia.org/wiki/Bloodborne)
 - Some of the other things that I like is voice acting (I am just starting out). Another thing that I really like are cats(if you couldn't already tell)
 > <img src="Pictures/happy-cat-happy-happy-cat.gif" alt="Happy Cat" width="200" hight="300"/> <img src="Pictures/happy-cat-happy-happy-cat.gif" alt="Happy Cat" width="200" hight="300"/> <img src="Pictures/cat-cat-meme.gif" alt="Sus Cat" width="200" hight="300"/> <img src="Pictures/happy-cat-happy-happy-cat.gif" alt="Happy Cat" width="200" hight="300"/> <img src="Pictures/happy-cat-happy-happy-cat.gif" alt="Happy Cat" width="200" hight="300"/> 
-  # **What I'm Doing Now**
-- 🌱 I’m currently learning on how to become a Software Engineer.
-  # **How to Reach Me**
-- 📫 You can reach me via email or text message.
-  # **Extra Info**
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I lived in Saudi Arabia for 5 years.
+  # **Extra Facts**
+- I’m currently learning on how to become a Software Engineer.
+- Pronouns: He/him
+- Fun fact: I lived in Saudi Arabia for 5 years.
 
 <!---
 Moibrahi7/Moibrahi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
