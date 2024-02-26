@@ -1,4 +1,3 @@
-<font color="blue">This is blue text</font>
   # **👋Hi, I’m Mohamed Ibrahim**
 - Who is Mohamed you might ask, well im a guy who likes to work with computers and have worked with computers for a long time. I have other interests of course but for those you will have to look slightly lower than this initial post. If you have any questions conserning my self you can reach me via email or text. Anyway its time to get into it.
   # **What times are good for working with Me?**
