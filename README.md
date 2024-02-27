@@ -7,8 +7,7 @@
 # **How would I like feedback?**
 - I would like feedback to be discussed in-person if possible and if anyone has feedback just let me know I will not be offended if you tell me I’m doing something wrong or have any tips for me.
 # **Interests**
-- 👀 I’m a guy who really likes computers.
-- I also like to game, what games specifically? Well that is a tough one I really like to play a variety of games. The games I'm currently interested in are:
+- I’m a guy who really likes computers. I also like to game, what games specifically? Well that is a tough one I really like to play a variety of games. The games I'm currently interested in are:
 - Destiny 2
 > [<img src="Pictures/Destiny_2_(artwork).jpg" alt="Destiny 2 cover art" width="200" hight="300"/>](https://en.wikipedia.org/wiki/Destiny_2)
 - Warframe
